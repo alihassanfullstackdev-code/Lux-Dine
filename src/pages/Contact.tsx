@@ -69,6 +69,11 @@ export default function Contact() {
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d54483.99222457819!2d73.079148!3d31.4117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x392242a895a55ca9%3A0xdec58f88932671c6!2sFaisalabad%2C%20Punjab!5e0!3m2!1sen!2spk!4v1710000000000!5m2!1sen!2spk" 
           className="w-full h-full grayscale invert brightness-50 contrast-125 transition-all hover:grayscale-0 hover:brightness-100"
           style={{ border: 0 }}
+
+
+
+
+          
           allowFullScreen={true}
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"

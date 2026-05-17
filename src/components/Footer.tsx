@@ -10,7 +10,7 @@ export default function Footer() {
       <div className="container mx-auto px-6 md:px-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-16 mb-20">
           <div className="space-y-8">
-            <h3 className="text-3xl font-display font-black tracking-tighter uppercase">LUX DINE</h3>
+            <h3 className="text-3xl font-display font-black tracking-tighter uppercase">Restopos</h3>
             <p className="text-white/40 text-sm leading-relaxed max-w-xs font-light">
               Where aromatic Desi spices collide with the crunch of modern fast food. Authentic, bold, and served fresh.
             </p>

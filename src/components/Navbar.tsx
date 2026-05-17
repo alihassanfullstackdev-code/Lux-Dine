@@ -36,7 +36,7 @@ export default function Navbar() {
           <div className="w-8 h-8 bg-gradient-to-tr from-orange-600 to-red-500 rounded-lg flex items-center justify-center transition-transform group-hover:rotate-12 shrink-0">
             <Utensils className="text-white w-4 h-4" />
           </div>
-          <span className="font-display font-black text-lg md:text-xl tracking-tighter text-white uppercase ml-1 truncate">LUX DINE</span>
+          <span className="font-display font-black text-lg md:text-xl tracking-tighter text-white uppercase ml-1 truncate">Restopos</span>
         </Link>
 
         {/* Desktop Nav */}
